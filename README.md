@@ -1,1 +1,3 @@
-# Manua-Loa-Predictions-
+# This is a sample statistical project that I have done before and only represents a fraction of what I can bring to your team. The data used is a set of atmospheric CO2 measurements taken at Mauna Loa, a volcano in Hawaii. It can be found here https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html
+
+# The task at hand was to predict future CO2 measurements from the given data set, with most of the work below done using R and SAS. I hope that this project gives you a good sample of my capabilities and I would love to discuss with you how I can bring insights like these into your business using data!
